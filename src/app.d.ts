@@ -12,7 +12,7 @@ declare global {
       user: User | null
       profile: Profile | null
     }
-    interface PageDat {
+    interface PageData {
       session: Session | null
       profile: Profile | null
     }
