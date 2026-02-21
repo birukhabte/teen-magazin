@@ -1,3 +1,9 @@
+/**
+ * SvelteKit Configuration
+ * 
+ * This file configures how SvelteKit builds your application.
+ * It specifies the adapter for deployment and preprocessors for styling.
+ */
 import adapter from '@sveltejs/adapter-auto';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
