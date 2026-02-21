@@ -82,3 +82,20 @@ Preview the production build:
 ```sh
 pnpm run preview
 ```
+
+## 📁 Project Structure
+
+```text
+.
+├── src/
+│   ├── lib/          # Shared components, utilities, and types
+│   │   ├── components/ # Reusable UI components
+│   │   ├── utils.ts    # Shared utility functions
+│   │   └── types.ts    # TypeScript type definitions
+│   └── routes/       # Pages and API endpoints
+├── static/           # Static assets (images, fonts, etc.)
+├── supabase/         # Database migrations and configuration
+├── svelte.config.js  # SvelteKit configuration
+├── vite.config.ts    # Vite configuration
+└── tsconfig.json     # TypeScript configuration
+```
