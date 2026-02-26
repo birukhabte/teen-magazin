@@ -31,8 +31,7 @@ A modern, high-performance digital magazine platform built for the next generati
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/temesgen-982/teen-magazine.git
-   cd teen-magazine
+   https://github.com/birukhabte/teen-magazin.git
    ```
 
 2. Install dependencies:
